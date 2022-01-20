@@ -24,13 +24,13 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: America/Los_Angeles
 
 collections:
   staff_members:
     _hide_content: true
 
-paginate: 10
+paginate: 3
 paginate_path: "/blog/:num/"
 permalink: pretty
 

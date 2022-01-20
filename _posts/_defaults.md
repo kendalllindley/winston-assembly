@@ -3,4 +3,19 @@ title:
 categories:
 author_staff_member:
 date:
+Name:
+startDate:
+endDate:
+Event:
+Location:
+Type:
+Name:
+addressType:
+streetAddress:
+city:
+postalCode:
+addressRegion:
+addressCountry: USA
+Image:
+description:
 ---

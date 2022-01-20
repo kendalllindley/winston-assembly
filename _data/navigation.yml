@@ -1,6 +1,9 @@
 - name: Home
   link: /
   new_window: false
+- name: Events
+  link: /blog
+  new_window: false
 - name: About
   link: /about
   new_window: false
