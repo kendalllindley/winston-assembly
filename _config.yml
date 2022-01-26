@@ -29,6 +29,11 @@ timezone: America/Los_Angeles
 collections:
   staff_members:
     _hide_content: true
+  events:
+    output: true
+    permalink: /events/:path/
+    title: Events
+
 
 paginate: 3
 paginate_path: "/blog/:num/"
