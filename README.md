@@ -76,3 +76,6 @@ Hydra is already optimised for adding, updating and removing pages, staff, advic
 
 * Exposed as a data file to give clients better access.
 * Set in the *Data* / *Footer* section.
+
+## CMS - Forestry.io
+* The easy parts of the site can be updated on Forestry.io. If Forestry.io becomes disconnected (no site is showing in the Forestry.io CMS) it can be reconnected by adding a site in Forestry. Then the Markdown components of the site are easy to update from there. Alternatively, the .md(Markdown) files can be edited directly in this repo. 
